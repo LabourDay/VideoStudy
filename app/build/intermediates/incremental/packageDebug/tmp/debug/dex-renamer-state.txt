@@ -1,0 +1,4 @@
+#Tue Aug 06 22:22:06 CST 2019
+base.0=D\:\\android\\VideoStudy\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
